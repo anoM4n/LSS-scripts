@@ -42,6 +42,7 @@
 // @match        https://polis.larmcentralen-spelet.se/*
 // @match        https://www.112-merkez.com/*
 // @match        https://www.dyspetcher101-game.com/*
+// @run-at       document-idle
 // @grant        none
 // ==/UserScript==
 
